@@ -1,0 +1,14 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	dns
+#open	2026-04-03-07-51-17
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	trans_id	rtt	query	qclass	qclass_name	qtype	qtype_name	rcode	rcode_name	AA	TC	RD	RA	Z	answers	TTLs	rejected	opcode	opcode_name
+#types	time	string	addr	port	addr	port	enum	count	interval	string	count	string	count	string	count	string	bool	bool	bool	bool	count	vector[string]	vector[interval]	bool	count	string
+1775191872.147736	C6cNRBATCQdzJyNa2	192.168.1.124	5353	224.0.0.251	5353	udp	0	-	_googlecast._tcp.local	-	-	-	-	0	NOERROR	T	F	F	F	0	haier-android-tv-dvb-de407e1fb77016e7ee183f6389b9b60d._googlecast._tcp.local	120.000000	F	0	query
+1775191872.250561	COUvDz1oe6Qq7hxV34	192.168.1.35	5353	224.0.0.251	5353	udp	0	-	milink1153534533.local	-	-	-	-	0	NOERROR	T	F	F	F	0	192.168.1.35	119.000000	F	0	query
+1775191875.220751	COUvDz1oe6Qq7hxV34	192.168.1.35	5353	224.0.0.251	5353	udp	0	-	mibox4._androidtvremote2._tcp.local	-	-	-	-	0	NOERROR	T	F	F	F	0	TXT 20 bt=20:57:9E:51:BD:E2,_androidtvremote2._tcp.local,mibox4._androidtvremote2._tcp.local,android-2.local,android-2.local,android-2.local,android-2.local,android-2.local,android-2.local,android-2.local,android-2.local,192.168.1.35,fd5d:46eb:3b7f:0:ad24:3fa9:e54d:e630,fd5d:46eb:3b7f:0:78cb:62d1:1283:ec9e,fd5d:46eb:3b7f:0:d061:c253:5fc8:5fe9,fd5d:46eb:3b7f:0:ace2:5ee3:8ba3:e386,fe80::2257:9eff:fe51:96d2,fd5d:46eb:3b7f:0:2257:9eff:fe51:96d2	4500.000000,4500.000000,4500.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000	F	0	query
+1775191872.250561	CrsuOu16a0X6vdCmtb	fe80::e814:c9ff:febb:ff81	5353	ff02::fb	5353	udp	0	-	_googlecast._tcp.local	-	-	-	-	0	NOERROR	T	F	F	F	0	haier-android-tv-dvb-de407e1fb77016e7ee183f6389b9b60d._googlecast._tcp.local	120.000000	F	0	query
+1775191875.322998	C1f1OS3oa1ODrzlKl6	fe80::2257:9eff:fe51:96d2	5353	ff02::fb	5353	udp	0	-	mibox4._androidtvremote2._tcp.local	-	-	-	-	0	NOERROR	T	F	F	F	0	TXT 20 bt=20:57:9E:51:BD:E2,_androidtvremote2._tcp.local,mibox4._androidtvremote2._tcp.local,android-2.local,android-2.local,android-2.local,android-2.local,android-2.local,android-2.local,android-2.local,android-2.local,192.168.1.35,fd5d:46eb:3b7f:0:ad24:3fa9:e54d:e630,fd5d:46eb:3b7f:0:78cb:62d1:1283:ec9e,fd5d:46eb:3b7f:0:d061:c253:5fc8:5fe9,fd5d:46eb:3b7f:0:ace2:5ee3:8ba3:e386,fe80::2257:9eff:fe51:96d2,fd5d:46eb:3b7f:0:2257:9eff:fe51:96d2	4500.000000,4500.000000,4500.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000,120.000000	F	0	query
+#close	2026-04-03-07-51-17

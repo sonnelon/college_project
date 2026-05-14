@@ -1,0 +1,10 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	quic
+#open	2026-04-03-07-47-14
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	version	client_initial_dcid	client_scid	server_scid	server_name	client_protocol	history
+#types	time	string	addr	port	addr	port	string	string	string	string	string	string	string
+1775191622.422119	CRWMyg4k80C8VilIB9	192.168.1.145	52192	216.239.36.223	443	1	da39eb1956ea36c5	(empty)	fa39eb1956ea36c5	optimizationguide-pa.googleapis.com	h3	IIISZiiiiishooHOOoOo
+#close	2026-04-03-07-47-14

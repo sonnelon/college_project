@@ -1,0 +1,61 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	files
+#open	2026-03-31-15-49-58
+#fields	ts	fuid	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted	extracted_cutoff	extracted_size
+#types	time	string	string	addr	port	addr	port	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string	bool	count
+1774961398.772099	FfBv7y3QawWSrTGKck	C8ykd32lDPqWfVEsua	192.168.1.145	43122	34.104.35.123	80	HTTP	0	(empty)	application/x-xz	-	0.000077	F	F	10024	10024	0	0	F	-	-	-	-	-	-	-
+1774968750.144104	Fsry3w4NKnOFilUH9j	CNMMKrQcz8lZij7mk	192.168.1.145	59582	192.168.1.124	8008	HTTP	0	(empty)	application/xml	-	0.000000	T	F	1089	1089	0	0	F	-	-	-	-	-	-	-
+1774968796.223043	FjEnOD1LvHNoCd5id5	Cufq4X16bBDgIK1tS9	192.168.1.145	52850	142.251.38.110	80	HTTP	0	(empty)	text/plain	json.txt	0.000000	F	F	81	-	0	0	F	-	-	-	-	-	-	-
+1774969406.687427	FD3RCF3qx89LJ2LJr1	CIvchA3GaJM9Amc9G4	192.168.1.145	41392	185.209.115.242	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	471	-	0	0	F	-	-	-	-	-	-	-
+1774969408.506309	FO6zoI35tCZsGLlVAh	CZUmHB1cFcD1YE0Iu5	192.168.1.145	44256	172.67.177.129	443	SSL	0	OCSP_REPLY	application/ocsp-response	-	0.000000	F	F	280	-	0	0	F	-	-	-	-	-	-	-
+1774975110.208279	F1Vuyw3cEoco8yq44a	CUlUSA25O5ajDb550i	192.168.1.145	41280	192.168.1.35	8008	HTTP	0	(empty)	application/xml	-	0.000000	T	F	1061	1061	0	0	F	-	-	-	-	-	-	-
+1774978311.610151	FFrM8t2MUQhL8ya6m6	CMUY1e45bxDpp3ASeb	192.168.1.145	57928	149.154.152.233	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978311.621229	Fzkf7v2CcM1Fqt4SO5	CIFFXm2FdkBuySmtg	192.168.1.145	52936	192.121.170.12	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978311.644682	FIiMnl3y9D398g3X26	CWtRlek2FQY6py9K	192.168.1.145	43122	185.82.219.2	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978311.773717	F3B1Yl3Ed2XUieGWL6	C6JmRbrBVHVfZryB1	192.168.1.145	60244	81.173.83.173	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978311.847520	Fna2XJ3jKxK7wkUrZ7	CGoEXJ21ZmVqCB9yEi	192.168.1.145	34596	188.214.34.179	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978311.950159	FO039Q2JYqDTnXOzH	CXsBo12GbvUP8Px9Zf	192.168.1.145	53344	62.233.57.136	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978311.983003	FKNFnJOwMFUD1Aahj	CTJciB2hXCr9wxhZyg	192.168.1.145	39638	85.9.201.68	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978312.115371	FcRigNLCENnJ0IXdd	CFDZ4M1O0i9U9lZhx1	192.168.1.145	46320	37.203.37.100	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978312.160887	F4MGGO1ts18SQ2S20b	CcWyWsUW93pc87tU9	192.168.1.145	42296	37.203.37.112	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978312.222620	FDfYpc3Kd8ef0Yhqc5	CXcFvD4AXBurrqmZF6	192.168.1.145	50656	37.235.52.33	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978312.354961	FYo8XUxBM1LMzZ3K9	Cj0bES3KL6nAWe6c79	192.168.1.145	49314	185.26.51.60	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978312.386311	FUwUA8W2psaHkklv	Cy0zDE1254CwIiBGk6	192.168.1.145	55104	192.71.213.84	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978312.480512	FNEtP52nxTHMAGgWri	CXxxea2o8gF8o8LAD	192.168.1.145	42254	94.237.35.1	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978312.710480	FTcfNljZMfbjCDW6i	CQZg9A3RkKB06wxZ52	192.168.1.145	49706	192.71.166.86	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978321.627200	Fv0qvF1IjrUIZYHaCd	COsXeg4WRAleKPahjh	192.168.1.145	59284	89.46.237.19	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978321.638251	Fc6c8H1nzntPouUFnk	CwPL8BN0a6ZReYHi1	192.168.1.145	35352	185.193.50.230	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978321.653620	FfYzkl4e5B99GnhPCi	CzSP0n2TY57S5Puba	192.168.1.145	40626	185.108.129.37	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978321.901864	F5f3Zj1ZiioiagRNGc	CsK8rsQG69ZNEGywh	192.168.1.145	33856	192.71.218.97	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978321.937052	FQBC0D24HBnUbrWSM1	Ct1nOJ3b4fMianLH1	192.168.1.145	59510	193.182.144.21	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978322.501242	FZoItKGdIgRpOqXug	CDDhin1wuAdVM9lgEh	192.168.1.145	34760	185.237.185.162	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978322.634603	FOZGpX20As6gYNPVpg	CabhSZdu6X2j3sLf7	192.168.1.145	38790	89.124.8.38	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978322.770763	FxtxaX2aSMJm2tMwDl	CI3U0r2EHPgOAhwh0c	192.168.1.145	47592	89.124.8.37	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978322.836742	FdMbcE4SiLIKwDETCh	Cy88VX1fBWvkVNwEw2	192.168.1.145	42718	192.121.163.179	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978322.966387	FWlUdy3dYThw7ABQXe	CZw3Bu3WaJSUYOtq24	192.168.1.145	49146	89.111.27.213	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978323.451430	FkmASj3uBtZisvIHdb	CSxmFP31rsqksgaqN	192.168.1.145	45108	185.219.157.127	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978324.516341	FJtGit4oDhYsP2ULRb	Cv2xxuIwJGjhkwhAk	192.168.1.145	40288	94.237.7.37	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978324.679154	FpOyr14aijrKfdfBk6	CtXoV94N6VH9EBStIc	192.168.1.145	35128	5.255.97.220	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978324.865122	FHlAVD1r9yrHjRgrIl	Ca4dO2Erq7llWkXIh	192.168.1.145	54954	50.7.176.123	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978332.061993	F9RKVMr2qgV6RBTVl	CSiV9J3FhXdRraCnOj	192.168.1.145	39052	5.187.33.144	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978332.094252	F8IeUK2wIsdH5j8Aoi	CY0c4Z3hxBEiaGWBk7	192.168.1.145	44644	45.153.127.239	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978332.125737	FDwS7d3xnflbo3ogbc	C2HgSs4ivEJ6rz0Fh	192.168.1.145	42452	89.46.236.111	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978332.205817	FmeBQP2E5fhbeak9me	COTAMv1Dek0vxHzsdh	192.168.1.145	50850	46.246.9.128	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978332.210188	FbHd7Z2uEe4F1wWB34	CeOjdg2BC27MKL1DKh	192.168.1.145	50800	193.42.108.84	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978332.399535	FWPm0g2aQqEHRSJGp1	CBW2zGfpTevafiBRh	192.168.1.145	60016	192.71.244.113	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978332.565937	F0MrY91pEExPAFmFf7	CEIBLq1pAF971pqXJ6	192.168.1.145	51384	167.71.199.232	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978332.611763	Ff1deO1oaCVFbhksT9	CNYUYq5oSg6KhhTLf	192.168.1.145	51070	185.123.100.203	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978332.755129	F6yxHOWxuphFuIsef	C8xjLF46cDMDRD3hQj	192.168.1.145	51532	217.12.210.35	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978332.772981	FCXuZS1QsbAZhGTOw6	CTDay72zNnecQ7T4Ud	192.168.1.145	54700	94.237.52.110	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978332.935466	FoMWuobrqr0ZncIK3	CAtZfK25lagqtwGDUa	192.168.1.145	42550	23.106.56.54	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978332.907410	FwtlAIjMxvYnvbHck	CXYBwf1N9Pn48lRtQl	192.168.1.145	40750	23.106.56.53	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978332.630601	FrjRfE1fin2M0DB279	CRQoBU3xFRrgC0wzo5	192.168.1.145	56536	23.106.249.35	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978333.270121	FGwLfj3mI9ur7fQhY8	C9FoKh2KVH76zFkLxk	192.168.1.145	53126	152.44.39.169	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978332.798824	FLCbFh4h8JSwJe4Y09	CDYK0gAHXesF8bsn6	192.168.1.145	52612	23.106.249.37	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978333.638224	FnBLy84WK13wyLzTof	ClwusE2DQZw8Sgrv51	192.168.1.145	44408	95.111.213.0	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978333.756931	Fb8qE99DpAZKpC1T	C7VO1jdFEkH4Droo3	192.168.1.145	55846	156.38.157.201	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978333.495850	FSK0lz3djPotCddAsc	CflKZD32lP1aE0ax9b	192.168.1.145	33578	207.244.71.81	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
+1774978333.559761	FoM1HdoGM7goTyqze	CdlkDy4346lSHANzL1	192.168.1.145	33052	162.210.194.3	80	HTTP	0	(empty)	text/json	-	0.000000	F	F	21	-	0	0	F	-	-	-	-	-	-	-
